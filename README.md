@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Igor
+- 👋 Hi, I’m Igor
 - 👀 I’m interested in everything related to programming, computers and science.
 - 🌱 I’m currently learning in university.
 - 📫 How to reach me: usenkoigor01@gmail.com
