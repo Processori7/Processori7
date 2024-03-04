@@ -15,4 +15,10 @@
 ### AND MORE)
 
 ## My Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=Processori7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Processori7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Time spent on Git
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Processori7)](https://git.io/streak-stats)
+
+## Not many statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Processori7)](https://github.com/anuraghazra/github-readme-stats)
