@@ -21,4 +21,14 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Processori7)](https://git.io/streak-stats)
 
 ## Not many statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Processori7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Processori7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Other information
+[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Processori7&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Codewars
+[![codewars](https://www.codewars.com/users/Processor/badges/small)](https://www.codewars.com/users/Processor) 
+
+## Visitors
+![](https://komarev.com/ghpvc/?username=Processori7)
+
