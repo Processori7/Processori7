@@ -12,4 +12,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-## AND MORE)
+### AND MORE)
+
+## My Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=Processori7)](https://github.com/ryo-ma/github-profile-trophy)
