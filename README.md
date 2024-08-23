@@ -2,7 +2,6 @@
 # 👋 Hi there, I'm [Igor](https://igorportfolio.42web.io/)
 ## 👀 I’m interested in everything related to programming, computers and science.
 ## 🌱 I’m currently learning in university.
-## 📫 How to reach me: see my [site](https://igorportfolio.42web.io/)
 # Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
