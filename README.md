@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=WELCOME!)](https://git.io/typing-svg)
-# 👋 Hi there, I'm [Igor](https://igorportfolio.42web.io/)
+# 👋 Hi there, I'm [Igor]
 ## 👀 I’m interested in everything related to programming, computers and science.
 ## 🌱 I’m currently learning in university.
 # Skills:
