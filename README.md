@@ -72,9 +72,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Processori7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Other information
-[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Processori7&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Igor's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Processori7&theme=vision-friendly-dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Processori7&theme=vision-friendly-dark)
+[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Processori7&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+![Igor's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Processori7&theme=vision-friendly-dark)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Processori7&theme=vision-friendly-dark)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Processori&theme=vision-friendly-dark)
 ## Codewars
 [![codewars](https://www.codewars.com/users/Processor/badges/small)](https://www.codewars.com/users/Processor) 
