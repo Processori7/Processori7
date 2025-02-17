@@ -60,6 +60,7 @@
 
 ## AI
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 
 ## My Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=Processori7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
