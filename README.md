@@ -65,17 +65,10 @@
 ## My Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=Processori7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Time spent on Git
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Processori7)](https://git.io/streak-stats)
-
-## Not many statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Processori7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Other information
-[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Processori7&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Igor's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Processori7&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Processori7&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Processori&theme=solarized_dark)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Processori7&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Processori7&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Processori7&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## Codewars
 [![codewars](https://www.codewars.com/users/Processor/badges/small)](https://www.codewars.com/users/Processor) 
 
