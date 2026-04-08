@@ -50,7 +50,8 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-3682D1?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-00D4AA?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Trae](https://img.shields.io/badge/Trae-FF6B35?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-3682D1?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 ## Servers:
