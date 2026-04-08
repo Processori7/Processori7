@@ -92,6 +92,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Processori7&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Processori7&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Processori7&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Processori7&theme=onedark&hide_border=true)
+
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Processori7&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 ## Codewars
