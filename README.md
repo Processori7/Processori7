@@ -20,6 +20,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3498DB?style=for-the-badge&logo=python&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -28,9 +29,15 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Yougile](https://img.shields.io/badge/Yougile-00A651?style=for-the-badge&logo=trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-3B4262?style=for-the-badge&logo=esp&logoColor=white)
+![AI](https://img.shields.io/badge/AI-3776D1?style=for-the-badge&logo=ai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge&logo=mcp&logoColor=white)
+![SKILLS](https://img.shields.io/badge/SKILLS-00D4AA?style=for-the-badge&logo=skills&logoColor=white)
 ### AND MORE :)
 
 ## OS:
@@ -43,24 +50,39 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-3682D1?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-3682D1?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 ## Servers:
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-8B4513?style=for-the-badge&logo=svn&logoColor=white)
 
 ## Hostings
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![TimeWeb](https://img.shields.io/badge/TimeWeb-00AEEF?style=for-the-badge&logo=timeweb&logoColor=white)
+![Beget](https://img.shields.io/badge/Beget-FDBF2D?style=for-the-badge&logo=beget&logoColor=white)
+![Reg.ru](https://img.shields.io/badge/Reg.ru-FF6B35?style=for-the-badge&logo=reg.ru&logoColor=white)
 
 ## AI
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
+![Gemini](https://img.shields.io/badge/Gemini-FF5733?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=claude&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=qwen&logoColor=white)
+![Deepseek](https://img.shields.io/badge/Deepseek-1E90FF?style=for-the-badge&logo=deepseek&logoColor=white)
+![Yolo](https://img.shields.io/badge/YOLO-FF4444?style=for-the-badge&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-FF6C00?style=for-the-badge&logo=opencv&logoColor=white)
+![Vosk](https://img.shields.io/badge/Vosk-4285F4?style=for-the-badge&logo=vosk&logoColor=white)
+![Manus](https://img.shields.io/badge/Manus-8B4513?style=for-the-badge&logo=manus&logoColor=white)
 
 ## My Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=Processori7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
