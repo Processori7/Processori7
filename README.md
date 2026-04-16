@@ -94,11 +94,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Processori7&theme=onedark&hide_border=true)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Processori7&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-## Codewars
-[![codewars](https://www.codewars.com/users/Processor/badges/small)](https://www.codewars.com/users/Processor) 
-
 ## Visitors
 ![](https://komarev.com/ghpvc/?username=Processori7)
 
