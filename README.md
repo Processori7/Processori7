@@ -97,19 +97,19 @@
 ## 🚀 Featured Projects
 
 <a href="https://github.com/Processori7/Poli_Sidebar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Processori7&repo=REPO_1&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Processori7&repo=Poli_Sidebar&theme=onedark" />
 </a>
 <a href="https://github.com/Processori7/FreeAi_Mozila_Ext">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Processori7&repo=REPO_2&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Processori7&repo=FreeAi_Mozila_Ext&theme=onedark" />
 </a>
 
 <br/>
 
 <a href="https://github.com/Processori7/FreeAi_Yandex_Ext">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Processori7&repo=REPO_3&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Processori7&repo=FreeAi_Yandex_Ext&theme=onedark" />
 </a>
 <a href="https://github.com/Processori7/FreeAiChromeSidebar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Processori7&repo=REPO_4&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Processori7&repo=FreeAiChromeSidebar&theme=onedark" />
 </a>
 
 ## My Achievements
