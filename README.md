@@ -1,7 +1,11 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=WELCOME_TO_MY_PROFILE!)](https://git.io/typing-svg)
-# 👋 Hi there, I'm Igor
-## 👀 I’m interested in everything related to programming, computers and science.
-## 🌱 I’m currently learning in university.
+
+<h1 align="center">👋 Hi, I'm Igor</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+%2B+Robotics+%2B+AI;Backend+and+Automation;Embedded+Systems+and+IoT;Computer+Vision+and+LLM" alt="Typing SVG" />
+</p>
+
 
 # I build things at the intersection of software, robotics and AI
 
@@ -114,13 +118,12 @@
 
 ## My Achievements
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Processori7&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Processori7&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+## 📊 GitHub Stats
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://igorportfolio.42web.io/)
-## Visitors
-![](https://komarev.com/ghpvc/?username=Processori7)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Processori7&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Processori7&layout=compact&theme=onedark&hide_border=true&langs_count=8" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Processori7&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🐍 Contribution Snake
 
@@ -128,3 +131,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Processori7/Processori7/output/github-contribution-grid-snake-dark.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Processori7/Processori7/output/github-contribution-grid-snake.svg" />
 </picture>
+
+## Visitors
+![](https://komarev.com/ghpvc/?username=Processori7)
+
