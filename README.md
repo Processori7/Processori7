@@ -125,3 +125,9 @@
 ## Visitors
 ![](https://komarev.com/ghpvc/?username=Processori7)
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Processori7/Processori7/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Processori7/Processori7/output/github-contribution-grid-snake.svg" />
+</picture>
