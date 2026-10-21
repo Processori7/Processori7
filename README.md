@@ -114,12 +114,9 @@
 
 ## My Achievements
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Processori7&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Processori7&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Processori7&theme=onedark&hide_border=true)
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://igorportfolio.42web.io/)
 ## Visitors
