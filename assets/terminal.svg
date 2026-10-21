@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" fill="none" role="img" aria-label="Terminal intro">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#060B18"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="900" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1E3A8A"/>
+      <stop offset="0.5" stop-color="#3730A3"/>
+      <stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#4F46E5" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#4F46E5" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="320" fill="url(#bg)"/>
+  <ellipse cx="450" cy="170" rx="420" ry="150" fill="url(#glow)" filter="url(#soft)"/>
+
+  <!-- window frame -->
+  <rect x="1" y="1" width="898" height="318" rx="14" stroke="url(#border)" stroke-width="2" fill="none" opacity="0.85"/>
+
+  <!-- title bar -->
+  <path d="M1 15C1 7.268 7.268 1 15 1H885C892.732 1 899 7.268 899 15V52H1V15Z" fill="#111827" opacity="0.85"/>
+  <line x1="1" y1="52" x2="899" y2="52" stroke="#1F2937" stroke-width="1"/>
+  <circle cx="28" cy="26" r="6" fill="#EF4444" opacity="0.85"/>
+  <circle cx="50" cy="26" r="6" fill="#F59E0B" opacity="0.85"/>
+  <circle cx="72" cy="26" r="6" fill="#22C55E" opacity="0.85"/>
+  <text x="450" y="31" fill="#6B7280" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" text-anchor="middle">igor@dev — ~/profile</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+    <!-- whoami -->
+    <text x="28" y="88" fill="#4F46E5" font-weight="700">$</text>
+    <text x="46" y="88" fill="#E6EDF3">whoami</text>
+    <text x="28" y="112" fill="#8B949E">Igor — Software / Robotics / AI</text>
+
+    <!-- cat about -->
+    <text x="28" y="146" fill="#4F46E5" font-weight="700">$</text>
+    <text x="46" y="146" fill="#E6EDF3">cat about.md</text>
+    <text x="28" y="170" fill="#8B949E">Backend &amp; automation · Embedded &amp; IoT · Robotics &amp; CV · AI / LLM</text>
+
+    <!-- ls -->
+    <text x="28" y="204" fill="#4F46E5" font-weight="700">$</text>
+    <text x="46" y="204" fill="#E6EDF3">ls ~/projects</text>
+    <text x="28" y="228" fill="#C9D1D9">FreeAi_Mozila_Ext   FreeAiChromeSidebar   Poli_Sidebar   Poli_AI</text>
+    <text x="28" y="250" fill="#C9D1D9">duck_duck_MCP   SQL-MCP   Webscout   FreeAIVSCode   llm_finetune</text>
+
+    <!-- open -->
+    <text x="28" y="286" fill="#4F46E5" font-weight="700">$</text>
+    <text x="46" y="286" fill="#E6EDF3">open https://github.com/Processori7</text>
+    <rect x="418" y="273" width="10" height="16" fill="#4F46E5">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.49;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
