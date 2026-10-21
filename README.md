@@ -1,13 +1,30 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=WELCOME_TO_MY_PROFILE!)](https://git.io/typing-svg)
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm Igor</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:000B2E,50:0028A8,100:4F46E5&height=240&section=header&text=Igor&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20%2F%20WEB%20%2F%20AI&descSize=20&descAlignY=72" alt="Igor — Software / WEB / AI" />
+
+### Building things at the intersection of software, robotics and AI
+
+<br>
+
+<a href="https://github.com/Processori7?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_projects-0028A8?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+</a>
+<a href="https://github.com/Processori7">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://github.com/Processori7?tab=followers">
+  <img src="https://img.shields.io/badge/Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Follow" />
+</a>
+
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+%2B+Robotics+%2B+AI;Backend+and+Automation;Embedded+Systems+and+IoT;Computer+Vision+and+LLM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+%2B+Robotics+%2B+AI;Backend+and+Automation;Embedded+Systems+and+IoT;Computer+Vision+and+LLM;WEB Sites and Applications" alt="Typing SVG" />
 </p>
 
-
-# I build things at the intersection of software, robotics and AI
+## What I build
 
 - **Backend & automation** — Python, FastAPI, Django, C#/.NET, REST APIs and asynchronous services  
 - **Robotics & computer vision** — Fairino SDK, industrial robot arms, OpenCV, YOLO and sensor integration  
@@ -134,4 +151,12 @@
 
 ## Visitors
 ![](https://komarev.com/ghpvc/?username=Processori7)
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:000B2E,50:0028A8,100:4F46E5&height=120&section=footer" alt="" />
+
+</div>
 
