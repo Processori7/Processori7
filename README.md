@@ -156,7 +156,6 @@
 | [**Poli_AI**](https://github.com/Processori7/Poli_AI) | AI agent on free APIs with full MCP support | `Python` `MCP` |
 | [**duck_duck_MCP**](https://github.com/Processori7/duck_duck_MCP) | MCP server that gives your AI a search engine | `Python` `MCP` |
 | [**SQL-MCP**](https://github.com/Processori7/SQL-MCP) | MCP server for working with databases from an LLM | `Python` `SQL` |
-| [**Webscout**](https://github.com/Processori7/Webscout) | Search, transcription, TTS and temp mail in one tool | `Python` `FastAPI` |
 | [**FreeAIVSCode**](https://github.com/Processori7/FreeAIVSCode) | Free AI services right inside VS Code | `JS` `VS Code API` |
 | [**llm_finetune**](https://github.com/Processori7/llm_finetune) | Fine-tuning experiments on local LLMs | `Python` `PyTorch` |
 | [**MicroPython_Teplitsa**](https://github.com/Processori7/MicroPython_Teplitsa) | IoT automation of a tea house on ESP32 | `MicroPython` `ESP32` |
