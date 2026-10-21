@@ -2,6 +2,15 @@
 # 👋 Hi there, I'm Igor
 ## 👀 I’m interested in everything related to programming, computers and science.
 ## 🌱 I’m currently learning in university.
+
+# I build things at the intersection of software, robotics and AI
+
+- **Backend & automation** — Python, FastAPI, Django, C#/.NET, REST APIs and asynchronous services  
+- **Robotics & computer vision** — Fairino SDK, industrial robot arms, OpenCV, YOLO and sensor integration  
+- **Embedded & IoT** — ESP32, STM32, sensors, LoRa/mesh networks, telemetry and self-hosted infrastructure  
+- **Geospatial & AI** — satellite imagery processing, geospatial analysis and wildfire-risk modelling  
+- **Systems & DevOps** — Linux, Docker, Nginx, networking, distributed services and self-hosted deployments
+
 # Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -85,8 +94,26 @@
 ![Vosk](https://img.shields.io/badge/Vosk-4285F4?style=for-the-badge&logo=vosk&logoColor=white)
 ![Manus](https://img.shields.io/badge/Manus-8B4513?style=for-the-badge&logo=manus&logoColor=white)
 
+## 🚀 Featured Projects
+
+<a href="https://github.com/Processori7/Poli_Sidebar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Processori7&repo=REPO_1&theme=onedark" />
+</a>
+<a href="https://github.com/Processori7/FreeAi_Mozila_Ext">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Processori7&repo=REPO_2&theme=onedark" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Processori7/FreeAi_Yandex_Ext">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Processori7&repo=REPO_3&theme=onedark" />
+</a>
+<a href="https://github.com/Processori7/FreeAiChromeSidebar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Processori7&repo=REPO_4&theme=onedark" />
+</a>
+
 ## My Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=Processori7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Processori7&theme=onedark&hide_border=false)<br/>
@@ -94,6 +121,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Processori7&theme=onedark&hide_border=true)
 
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://igorportfolio.42web.io/)
 ## Visitors
 ![](https://komarev.com/ghpvc/?username=Processori7)
 
