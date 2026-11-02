@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:000B2E,50:0028A8,100:4F46E5&height=240&section=header&text=Igor&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20%2F%20WEB%20%2F%20AI&descSize=20&descAlignY=72" alt="Igor — Software / WEB / AI" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:000B2E,50:0028A8,100:4F46E5&height=240&section=header&text=Igor&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20%2F%20WEB%20%2F%20AI&descSize=20&descAlignY=72" alt="Processori7 — Software / WEB / AI" />
 
 ### Building things at the intersection of software, web, robotics and AI
 
@@ -11,9 +11,6 @@
 <p align="center">
   <a href="https://github.com/Processori7?tab=repositories">
     <img src="https://img.shields.io/badge/%F0%9F%93%81%20Projects-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
-  </a>
-  <a href="https://github.com/Processori7">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/Processori7?tab=followers">
     <img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%20Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Follow" />
@@ -176,9 +173,6 @@
 <br>
 
 ## 📊 GitHub stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Processori7&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Processori7&layout=compact&theme=onedark&hide_border=true&langs_count=8" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Processori7&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
